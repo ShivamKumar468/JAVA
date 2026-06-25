@@ -7,7 +7,8 @@ public class dataT{
         //  float f= 1.5F;
         //  double d= 90.70;
         //  char ch = 'a';
-        //  boolean bool = false; 
+        //  boolean bool = false;
+        //int string =90; 
 
 // System.out.println(b);
 // System.out.println(s);
