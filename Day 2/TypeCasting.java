@@ -1,7 +1,7 @@
 public class TypeCasting {
     public static void main(String[] args) {
         long b= 128; 
-        byte i= (byte)b;  //128- 127
+        byte i= (byte)b;  //128- 127`
         //b=(byte)(b+2);
         System.out.println(b);
         System.out.println(b);

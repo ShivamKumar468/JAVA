@@ -16,8 +16,8 @@ public class dataT{
 // System.out.println(l);
 // System.out.println(f);
 // System.out.println(d);
-// System.out.println(ch);
-// System.out.println(bool);
+System.out.println(ch);
+System.out.println(bool);
 for(char i =0; i<=65535; i++){  // loop to print all character in world  
     System.out.println (i);
 }
