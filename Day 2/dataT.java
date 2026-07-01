@@ -6,8 +6,8 @@ public class dataT{
         //  long l= 1_54_56689; 
         //  float f= 1.5F;
         //  double d= 90.70;
-        //  char ch = 'a';
-        //  boolean bool = false;
+          char ch = 'a';
+         boolean bool = false;
         //int string =90; 
 
 // System.out.println(b);
