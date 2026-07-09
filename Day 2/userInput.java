@@ -8,7 +8,7 @@ public class userInput {
         // System.out.println("Intiger value ="+a);
 
         // Scanner sc = new Scanner(System.in);
-        // System.out.println("Enter an long value:="); 
+        // System.out.println("Enter an long value:="); git
         // long a= sc.nextLong();
         // System.out.println("long value ="+a);
 
