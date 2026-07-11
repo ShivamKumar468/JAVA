@@ -6,7 +6,7 @@ public class sum_e {
         for(int i=0; i<s.length; i++){
             sum+=s[i];
         }
-        System.out.println(sum);;
+        System.out.println(sum);
     }
     
 }
